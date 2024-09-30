@@ -1,0 +1,6 @@
+flask==2.2.2
+torch==2.0.1
+transformers==4.29.0
+accelerate==0.20.3
+Pillow==9.3.0
+requests==2.28.1
