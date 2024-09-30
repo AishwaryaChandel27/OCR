@@ -1,6 +1,1 @@
-flask
-torch
-transformers
-accelerate
-Pillow
-requests
+
